@@ -7,6 +7,14 @@ Very small HTTP/S request library for Node.js
 - Support headers
 - Simple and minimal, best for creating simple HTTP/S request
 
+## Installation
+- It's recommended to use this directly from github 
+```sh
+# NPM will spawn git CLI to clone the repo, make sure you've git installed on your system
+npm install https://github.com/kiwimoe/reqwu.git
+# After done, now you can use `import { Reqwu } from "reqwu";`
+```
+
 ## Usage
 #### Get request
 Here's some basic examples, see [this](https://github.com/kiwimoe/reqwu/blob/main/test.js) test script.
