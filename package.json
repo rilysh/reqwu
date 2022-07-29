@@ -1,0 +1,17 @@
+{
+  "name": "reqwu",
+  "version": "0.0.1",
+  "description": "Lil' request library for Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "curl",
+    "node-fetch"
+  ],
+  "author": "kiwimoe",
+  "license": "MIT"
+}
