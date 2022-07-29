@@ -3,12 +3,12 @@ Very small HTTP/S request library for Node.js
 
 ## Info
 - It uses Node.js native HTTP/S modules for performing the request
-- Lightweight, doesn't uses anything else
+- Lightweight, doesn't use anything else
 - Support headers
 - Simple and minimal, best for creating simple HTTP/S request
 
 ## Installation
-- It's recommended to use this directly from github 
+- It's recommended to use this directly from GitHub 
 ```sh
 # NPM will spawn git CLI to clone the repo, make sure you've git installed on your system
 npm install https://github.com/kiwimoe/reqwu.git
@@ -17,7 +17,7 @@ npm install https://github.com/kiwimoe/reqwu.git
 
 ## Usage
 #### Get request
-Here's some basic examples, see [this](https://github.com/kiwimoe/reqwu/blob/main/test.js) test script.
+Here are some basic examples, see [this](https://github.com/kiwimoe/reqwu/blob/main/test.js) test script.
 
 ```js
 import { Reqwu } from "./index.js";
